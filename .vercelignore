@@ -1,0 +1,7 @@
+# Never upload these to the website
+.env*
+.vercel
+.git
+.gitignore
+.vercelignore
+reference
