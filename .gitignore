@@ -1,0 +1,7 @@
+# Vercel CLI link folder (keeps this project separate; never commit it)
+.vercel
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
